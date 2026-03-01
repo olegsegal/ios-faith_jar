@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(claude mcp:*)",
-      "Bash(where claude:*)"
+      "Bash(where claude:*)",
+      "WebFetch(domain:drive.google.com)",
+      "WebFetch(domain:i.vgy.me)",
+      "Bash(curl:*)",
+      "Bash(powershell:*)",
+      "WebSearch"
     ]
   },
   "mcpServers": {
