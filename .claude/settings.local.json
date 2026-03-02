@@ -7,7 +7,10 @@
       "WebFetch(domain:i.vgy.me)",
       "Bash(curl:*)",
       "Bash(powershell:*)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(NODE_OPTIONS=\"--tls-max-v1.2\" npx create-expo-app@latest:*)",
+      "Bash(ping:*)",
+      "Bash(npm ping:*)"
     ]
   },
   "mcpServers": {
