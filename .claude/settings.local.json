@@ -10,7 +10,8 @@
       "WebSearch",
       "Bash(NODE_OPTIONS=\"--tls-max-v1.2\" npx create-expo-app@latest:*)",
       "Bash(ping:*)",
-      "Bash(npm ping:*)"
+      "Bash(npm ping:*)",
+      "Bash(git commit:*)"
     ]
   },
   "mcpServers": {
